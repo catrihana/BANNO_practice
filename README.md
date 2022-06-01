@@ -1,2 +1,2 @@
-# html_css_practice
-Banno Practice
+# Banno_practice
+Banno Practice using html and css
